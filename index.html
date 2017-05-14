@@ -1,0 +1,35 @@
+</!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width-device-width, initial-scale=1.0">
+	<title>Timed Trivia</title>
+
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+	<script type="text/javascript" src="assets/javascript/app.js"></script>
+</head>
+
+<body>
+	<section id="container">
+	<div id="timer"></div>
+	<img src="assets/images/trivia.png" title="Trivia Image" alt="Trivia" id="logo">
+	<h1>Let's Begin</h1>
+		<button class="begin" style="display: inline-block;">Start</button>	
+		<p class="text">Press Start to continue the quiz. 
+		<br>Only select one answer at a time. 
+		</p>
+	<h2 class="timeOut">Try again.</h2>
+	<h3 class="question"></h3>
+		<p class="options">Hit Reset to try again!</p>
+			<p class="result">
+			<br> Correct: 
+			<br>Incorrect: 
+			</p>
+	<button onclick="window.location.reload()" class="reset" style="display: inline-block;">Reset</button>
+	</section>
+	<br>
+	<br>
+</body>
+</html>

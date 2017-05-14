@@ -1,0 +1,102 @@
+body {
+	background-image: url("http://www.themesltd.com/headers2/funky_teal_thunderbolts.png");
+	text-align: center;
+    background-size: 100%;
+    color: #000000;
+    font-family: 'Oswald', sans-serif;
+}
+section {
+	float: center;
+	width: 85%;
+    max-width: 980px;
+    background-color: #00FF7F;
+    border: 5px solid #FFFFFF;
+    margin: 50px auto;
+    position: relative;
+    height: 800px;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+    color: #000000;
+    font-size: 62px;
+    font-weight: 900;
+    margin: 4px auto;
+}
+
+img {
+	position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 150px;
+	border-radius: 25px;
+}
+
+
+.begin {
+	border-radius: 15px;
+	font-family: 'Oswald', sans-serif;
+    color: #000000;
+    font-size: 32px;
+    font-weight: 900;
+    margin: 4px auto;
+}
+
+.text {
+	border-radius: 15px;
+	font-family: 'Oswald', sans-serif;
+    color: #000000;
+    font-size: 32px;
+    margin: 4px auto;
+}
+
+.options {
+	border-radius: 15px;
+	font-family: 'Oswald', sans-serif;
+    color: #000000;
+    font-size: 32px;
+    margin: 4px auto;
+}
+
+.result {
+	border-radius: 15px;
+	font-family: 'Oswald', sans-serif;
+    color: #000000;
+    font-size: 32px;
+    margin: 4px auto;
+}
+#countdown {
+	font-family: 'Oswald', sans-serif;
+    color: #000000;
+    font-size: 62px;
+    font-weight: 900;
+    margin: 4px auto;
+
+}
+
+.timeOut {
+	font-family: 'Oswald', sans-serif;
+    color: #000000;
+    font-size: 62px;
+    font-weight: 900;
+    margin: 4px auto;
+}
+
+.question {
+	font-family: 'Oswald', sans-serif;
+    color: #000000;
+    font-size: 62px;
+    font-weight: 900;
+    margin: 4px auto;
+}
+
+.reset {
+	border-radius: 15px;
+	font-family: 'Oswald', sans-serif;
+    color: #000000;
+    font-size: 32px;
+    font-weight: 900;
+    margin: 4px auto;
+
+}
+
